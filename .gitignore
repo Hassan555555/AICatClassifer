@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore libraries directory
+libraries/
+
+# Ignore Images directories
+cat_images/
+non_cat_images/
+test_images/
