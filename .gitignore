@@ -9,3 +9,4 @@ libraries/
 cat_images/
 non_cat_images/
 test_images/
+model.pth
